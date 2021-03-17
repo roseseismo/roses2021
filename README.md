@@ -9,8 +9,13 @@ Recorded lectures will be hosted on the IRIS website and Youtube channel, while 
 
 
 ## Registration
-Please register for ROSES2021 via our Google Form:
+Please register for ROSES2021 via our Google Form: https://forms.gle/6GwkpTPokn7uNPkc9
+
 Registration runs from April 1 2021 - May 15 2021
+
 Participants will be selected and notified by May 28 2021
+
 ROSES2021 will begin with a computing overview and kickoff session the first week of June
+
 Please direct any questions to: roseseismo@gmail.com
+
