@@ -1,7 +1,9 @@
 # roses2021
 Repository for ROSES2021
 
-ROSES = Remote Online Sessions for Emerging Seismologists. ROSES2021 is co-organized by Fransiska Dannemann Dugick, Nate Stevens, Anant Harihan and Liam Toney. 
+![Test Image 1](https://github.com/fdannemanndugick/roses2021/blob/master/color_full.png)
+
+ROSES = Remote Online Sessions for Emerging Seismologists. ROSES2021 is co-organized by Fransiska Dannemann Dugick, Nate Stevens, Anant Harihan and Liam Toney.
 
 Recorded lectures will be hosted on the IRIS website and Youtube channel, while this repository will host data exercises and lectures.
 
