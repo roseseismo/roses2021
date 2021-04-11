@@ -18,8 +18,8 @@ This year, ROSES will consist of 11 sessions (an introduction + 10 topical sessi
 
 
 Preference will be given to applicants who did not already participate in ROSES 2020.
-If you need a Python refresher, please check out the following “TRANSFORM 2020” course offered by Software Underground: https://www.youtube.com/watch?v=iIOMiN8Cacs (duration: 2.5 hours)
-If you need an ObsPy refresher, please check out tutorials here: https://docs.obspy.org/tutorial/index.html; https://www.youtube.com/watch?v=PRECSp2bb20 
+If you need a Python refresher, please check out the following “TRANSFORM 2020” course offered by [Software Underground](https://www.youtube.com/watch?v=iIOMiN8Cacs) (duration: 2.5 hours)
+If you need an ObsPy refresher, please check out tutorials [here](https://docs.obspy.org/tutorial/index.html) and [here](https://www.youtube.com/watch?v=PRECSp2bb20) 
 
 ## Registration
 
