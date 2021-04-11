@@ -1,4 +1,4 @@
-# Returning for 2021: ROSES (Remote Online Sessions for Emerging Seismologists)1
+# Returning for 2021: ROSES (Remote Online Sessions for Emerging Seismologists)
 
 ![ROSES logo](color_full.png)
 
