@@ -13,7 +13,7 @@ This year, ROSES will consist of 11 sessions (an introduction + 10 topical sessi
 * Familiarity with the Python programming language
 * Familiarity with the ObsPy Python toolbox
 * General familiarity with Jupyter notebooks
-* Access to a Unix-based computing environment with a Conda3 Python environment pre-installed (Note: ROSES will provide a cloud-based solution for Windows users)
+* Access to a Unix-based computing environment with a conda environment pre-installed (Note: ROSES will provide a cloud-based solution for Windows users)
 * Elementary knowledge of git and GitHub for accessing course materials
 
 
