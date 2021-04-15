@@ -17,7 +17,7 @@ This year, ROSES will consist of 11 sessions (an introduction + 10 topical sessi
 * Elementary knowledge of git and GitHub for accessing course materials
 
 
-Topics will focus on a combination of novel and upcoming topics in seismology, and topics that are useful for seismology students but may not be formally availbe via coursework at a university such as (subject to instructor availability):
+Topics will focus on a combination of novel and upcoming topics in seismology, and topics that are useful for seismology students but may not be formally available via coursework at a university such as (subject to instructor availability):
 * Metadata
 * Digital Signal Processing for Seismologists
 * Inversion - Tomography
