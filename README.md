@@ -16,6 +16,19 @@ This year, ROSES will consist of 11 sessions (an introduction + 10 topical sessi
 * Access to a Unix-based computing environment with a conda environment pre-installed (Note: ROSES will provide a cloud-based solution for Windows users)
 * Elementary knowledge of git and GitHub for accessing course materials
 
+Topics will focus on a combination of novel and upcoming topics in seismology, and topics that are useful for seismology students but may not be formally availbe via coursework at a university such as (subject to instructor availability):
+* Metadata
+* Digital Signal Processing for Seismologists
+* Inversion - Tomography
+* Inversion - Event Location
+* Inversion - Full Waveform
+* Distributed Acoustic Sensing
+* Machine Learning
+* Earthquake Physics
+* Mapping + Figure Development
+* Synthetics
+* Seismo-acoustic Processing
+
 
 Preference will be given to applicants who did not already participate in ROSES 2020.
 If you need a Python refresher, please check out the following “TRANSFORM 2020” course offered by [Software Underground](https://www.youtube.com/watch?v=iIOMiN8Cacs) (duration: 2.5 hours)
