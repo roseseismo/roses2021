@@ -42,5 +42,5 @@ If you need an ObsPy refresher, please check out tutorials [here](https://docs.o
 To apply for ROSES 2021, submit your information via [Google Form](https://forms.gle/hLDVTeXcf9C47SPF9) by Friday, May 7, 2021. Please direct any questions to the ROSES organization team at roseseismo@gmail.com.  Participants will be selected and notified by 28 May 2021.
 
 ## Contact
-ROSES 2021 is co-organized by Fransiska Dannemann Dugick, Nate Stevens, Anant Hariharan and Liam Toney. 
+ROSES 2021 is co-organized by Fransiska Dannemann Dugick, Liam Toney, Nate Stevens, Sydney Dybing and Anant Hariharan and advised by Suzan van der Lee, AGU Seismology Section president. 
 Please direct any questions to [roseseismo@gmail.com](mailto:roseseismo@gmail.com).
