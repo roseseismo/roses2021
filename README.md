@@ -1,6 +1,6 @@
-# Returning for 2021: ROSES (Remote Online Sessions for Emerging Seismologists)
+![ROSES header](header.png)
 
-![ROSES logo](color_full.png)
+# Returning for 2021: ROSES (Remote Online Sessions for Emerging Seismologists)
 
 Following the success of the first ROSES offering in the depths of global lockdown, we are pleased to announce the return of ROSES for mid-year 2021. ROSES will run from June 8 to August 17, 2021. We welcome applications from MS students, PhD students, early career researchers and lecturers, and incoming graduate students that have already taken the [IRIS Seismology Skill Building Workshop](https://www.iris.edu/hq/workshops/2021/01/ssb_2). We will continue to cultivate the successful, cohort-based learning environment while expanding accessibility globally – offering synchronous and asynchronous options for lectures, facilitating regional working groups, and providing a global forum for collaborative discussion. 
 
