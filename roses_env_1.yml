@@ -1,0 +1,29 @@
+name: roses_2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - python=3.7
+  - scipy
+  - numba
+  - pathlib
+  - pandas
+  - ipython
+  - jupyterlab
+  - jupyter
+  - pip
+  - matplotlib
+  - xarray
+  - netcdf4
+  - packaging
+  - gmt
+  - pygmt
+  - pycwt
+  - mpi4py
+  - obspy
+  - pyasdf
+  - cartopy
+  - geocoder
+  - gdown
+  - ipywidgets
