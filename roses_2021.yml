@@ -1,0 +1,12 @@
+name: roses_2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - gdown
+  - geocoder
+  - ipywidgets
+  - jupyterlab
+  - obspy
+  - pygmt
