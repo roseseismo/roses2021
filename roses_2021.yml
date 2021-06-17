@@ -10,6 +10,7 @@ dependencies:
   - jupyterlab
   - mpi4py
   - obspy
+  - plotly
   - pygmt
   - pyproj
   - utm
