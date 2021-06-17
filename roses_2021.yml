@@ -8,8 +8,9 @@ dependencies:
   - geocoder
   - ipywidgets
   - jupyterlab
+  - mpi4py
   - obspy
   - pygmt
   - pyproj
   - utm
-  - mpi4py
+  
