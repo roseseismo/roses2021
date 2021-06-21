@@ -46,3 +46,4 @@ Please direct any questions to [roseseismo@gmail.com](mailto:roseseismo@gmail.co
 ## Acknowledgements
 
 ROSES 2021 is generously supported by the [Seismological Society of America](https://www.seismosoc.org/), the [Incorporated Research Institutions for Seismology](https://www.iris.edu/hq/), the [AGU Seismology Section](https://connect.agu.org/seismology/home), and the [Alaska Satellite Facility](https://asf.alaska.edu/) at the University of Alaska Fairbanks.
+"# roses-2021" 
