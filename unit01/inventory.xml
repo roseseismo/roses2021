@@ -4,7 +4,7 @@
   <Sender>IRIS-DMC</Sender>
   <Module>ObsPy 1.2.2</Module>
   <ModuleURI>https://www.obspy.org</ModuleURI>
-  <Created>2021-06-15T03:39:48.371255Z</Created>
+  <Created>2021-06-15T16:21:41.269058Z</Created>
   <Network code="IW" startDate="2003-01-01T00:00:00.000000Z" restrictedStatus="open">
     <Description>Intermountain West Seismic Network (Wyoming Network)</Description>
     <Identifier type="DOI">10.7914/SN/IW
