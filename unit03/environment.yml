@@ -1,0 +1,19 @@
+name: rosesANT2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pypdf2
+  - pyshp
+  - obspy
+  - matplotlib
+  - numpy
+  - ipykernel
+  - scipy
+  - pyproj
+  - notebook
+  - pyasdf
+  - pycwt
+  - pandas
+  - numba
+  - pygmt
