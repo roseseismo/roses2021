@@ -15,5 +15,4 @@ dependencies:
   - pyasdf
   - pycwt
   - pandas
-  - numba
   - pygmt
