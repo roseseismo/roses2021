@@ -9,8 +9,14 @@ dependencies:
   - ipywidgets
   - jupyterlab
   - mpi4py
+  - numba
   - obspy
+  - pandas
   - plotly
+  - pyasdf
+  - pycwt
   - pygmt
+  - pypdf2
   - pyproj
+  - pyshp
   - utm
