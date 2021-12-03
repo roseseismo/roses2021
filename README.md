@@ -11,6 +11,9 @@ Topics focus on a combination of novel and upcoming topics in seismology, and to
 ROSES 2021 is co-organized by Fransiska Dannemann Dugick, Liam Toney, Nate Stevens, Sydney Dybing and Anant Hariharan and advised by Suzan van der Lee, American Geophysical Union (AGU) Seismology Section president. 
 Please direct any questions to [roseseismo@gmail.com](mailto:roseseismo@gmail.com).
 
+## Authorship
+Individual unit lectures and data exercises are produced by the respective instructor. This GitHub repository is maintained by Fransiska Dannemann Dugick with assistance from the ROSES 2021 instructor and organizer team.
+
 ## Acknowledgements
 
 ROSES 2021 is generously supported by the [Seismological Society of America](https://www.seismosoc.org/), the [Incorporated Research Institutions for Seismology](https://www.iris.edu/hq/), the [AGU Seismology Section](https://connect.agu.org/seismology/home), and the [Alaska Satellite Facility](https://asf.alaska.edu/) at the University of Alaska Fairbanks.
