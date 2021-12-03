@@ -13,6 +13,7 @@ Please direct any questions to [roseseismo@gmail.com](mailto:roseseismo@gmail.co
 
 ## Authorship
 Individual unit lectures and data exercises are produced by the respective instructor. This GitHub repository is maintained by Fransiska Dannemann Dugick with assistance from the ROSES 2021 instructor and organizer team.
+[![DOI](https://zenodo.org/badge/344178539.svg)](https://zenodo.org/badge/latestdoi/344178539)
 
 ## Acknowledgements
 
