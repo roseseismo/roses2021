@@ -8,7 +8,7 @@ Topics focus on a combination of novel and upcoming topics in seismology, and to
 
 ## Contact
 
-ROSES 2021 is co-organized by Fransiska Dannemann Dugick, Liam Toney, Nate Stevens, Sydney Dybing and Anant Hariharan and advised by Suzan van der Lee, American Geophysical Union (AGU) Seismology Section president. 
+ROSES 2021 is co-organized by Fransiska Dannemann Dugick, [Liam Toney](https://liam.earth), Nate Stevens, Sydney Dybing and Anant Hariharan and advised by Suzan van der Lee, American Geophysical Union (AGU) Seismology Section president. 
 Please direct any questions to [roseseismo@gmail.com](mailto:roseseismo@gmail.com).
 
 ## Authorship
