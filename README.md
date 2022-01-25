@@ -3,8 +3,9 @@
 # Remote Online Sessions for Emerging Seismologists 2021 (ROSES)
 ROSES 2021 was designed to have both synchronous and asynchronous course enrollment options to accommodate students across multiple time zones. Each week had a single course session containing a live, hour-long lecture component, where a field expert presented a lecture or information about an important aspect of seismology. This lecture was moderated and allowed participant questions. This was then followed by a live 'laboratory' session, where this instructor would demonstrate and execute code that built upon and applied the topics discussed in that day's lecture. This code was made available to all students, who would work through it simultaneously and use the code to tackle problems the instructor would provide. A slack channel for each lecture allowed students to debug and share their code together and consult the instructors for clarifications or general questions about the course materials. ROSES 2021 also took advantage of the Slack channel to build community across a geographically diverse student cohort.
 
-Topics focus on a combination of novel and upcoming topics in seismology, and topics that are useful for seismology students but may not be formally available via coursework at a university.
+Topics focus on a combination of novel and upcoming topics in seismology, and topics that are useful for seismology students but may not be formally available via coursework at a university. You can view and run the course materials online by clicking on the badge below:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/roseseismo/roses2021/HEAD)
 
 ## Contact
 
